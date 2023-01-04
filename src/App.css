@@ -11,13 +11,11 @@
     width: 100%;
     height: 100vh;
     background-color: #FFFFFF;
-    overflow: hidden;
 }
 .formContainer{
     position: relative;
     margin: 5rem auto;
     width: 50%;
-    height: 70vh;
 }
 header{
     border: 1px solid  #6C00FF;
